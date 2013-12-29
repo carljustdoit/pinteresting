@@ -33,6 +33,8 @@ gem 'devise', '~> 3.2.2'
 
 gem 'paperclip', '~> 3.5.2'
 
+gem 'aws-sdk', '~> 1.31.3'
+
 group :development, :test do
 	gem 'sqlite3'
 end
